@@ -40,4 +40,5 @@ This file contains the details of all the individuals that contributed to this s
 5. If an executable is not found the shell prints an error message and displayu the prompt again.
 
 ## authors:
-Sandra Dapa and Kefas Lungu.
+[Sandra Dapa](https://github.com/Sandystevy)
+[Kefas Lungu](//kefaslungu)
