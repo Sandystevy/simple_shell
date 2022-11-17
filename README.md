@@ -41,4 +41,5 @@ This file contains the details of all the individuals that contributed to this s
 
 ## authors:
 [Sandra Dapa](https://github.com/Sandystevy)
-[Kefas Lungu](//kefaslungu)
+|
+[Kefas Lungu](https://github.com/kefaslungu)
